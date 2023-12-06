@@ -15,6 +15,7 @@
 ## Technologies Used
 + MySQL
 + Python
++ Power BI
 
 ## Project Problem
 An application developer's objective is to create a successful Android App. To make informed decisions, the developer aims to answer the following questions:
@@ -39,7 +40,7 @@ The analysis has yielded the following key insights:
 
 ## Screenshots
 <div style="display: flex; flex-direction: row; gap:10">
-  <img  style="margin-bottom: 15px;" src="https://github.com/NilArj/Google_play/blob/6c700535f62b9c8d577b4684e634026501ece139/images/Captura%20de%20pantalla%202023-09-25%20084058.png" alt="visualization insights" width="600" height="280">
+  <img  style="margin-bottom: 15px;" src="https://github.com/NilArj/Google_play/blob/fbc149ffc9ca01c4cab1d3d8cc609ebfaf61a950/images/Googleplay.gif">
 </div>
 
 ## Source
